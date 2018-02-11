@@ -1,0 +1,9 @@
+Liste elec (6moteurs + alim) moveo 3D : (https://www.omc-stepperonline.com)
+
+	- STEPPER NEMA 17 60mm (SM42HT47-1684 1,8o step, 1,6 A, 3600 g·cm) : https://www.omc-stepperonline.com/hybrid-stepper-motor/nema-17-bipolar-18deg-60ncm-85ozin-064a-10v-42x42x60mm-4-wires-17hs24-0644s.html
+	- Stepper nema 17 R 1:5 (17HS19-1684S-PG5 ( step 0,35o , 2Nm, 1,68A)) : https://www.omc-stepperonline.com/geared-stepper-motor/nema-17-stepper-motor-bipolar-l48mm-w-gear-raio-51-planetary-gearbox-17hs19-1684s-pg5.html 
+	- Nema 23, 112mm, Ø8mm flat shaft (SM57HT112-3004A step 1,8o 3A 28Kg·cm)(x2) : https://www.omc-stepperonline.com/hybrid-stepper-motor/nema-23-bipolar-3nm-425ozin-42a-57x57x114mm-4-wires-cnc-stepper-motor-23hs45-4204s.html
+	- Nema 14 36mm (SM35HT36-1004A, 1,8o step, 1A, 1400g·cm) : https://www.omc-stepperonline.com/hybrid-stepper-motor/nema-14-bipolar-18deg-18ncm-255ozin-08a-574v-35x35x34mm-4-wires-14hs13-0804s.html
+	- Nema 17 34mm (SM42HT33-1334, 1,8o step, 1,33A, 2200 g·cm) : https://www.omc-stepperonline.com/hybrid-stepper-motor/nema-17-bipolar-18deg-26ncm-368ozin-04a-12v-42x42x34mm-4-wires-17hs13-0404s1.html
+	//- SERVO MOTOR 180§ 55G TORQUE=13KG/CM : https://store.open-electronics.org/SERVO213
+	- Power Supply 24V 320W : https://www.omc-stepperonline.com/power-supply/350w-24v-146a-115230v-switching-power-supply-stepper-motor-cnc-router-kits-s-350-24.html

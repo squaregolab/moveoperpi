@@ -1,0 +1,8 @@
+- site créateur : https://www.bcn3dtechnologies.com/en/bcn3d-moveo-the-future-of-learning/
+- site open source : https://www.thingiverse.com/tag:opensource/page:1
+		- https://cults3d.com/fr/impression-3d
+- pilote manette : https://hackaday.io/project/3800/gallery#decc9a87d6089ec91d3a75e6deee1d51
+- exemple : http://www.robot-maker.com/forum/topic/11216-bras-robot-bcn3d-moveo/page-7
+		- http://chaozlabs.blogspot.fr/
+		- https://www.thingiverse.com/thing:661286
+		- https://www.pinterest.fr/explore/bras-de-robot-arduino/

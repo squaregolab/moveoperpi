@@ -1,0 +1,17 @@
+piece meca: (https://www.reprap-france.com)
+	
+	- poulie :
+			14 dents(x3) : https://www.reprap-france.com/produit/1234568668-poulie-t5-14-dents-pour-courroie-de-15mm-axe-8mm
+			10 dents(x2) : https://www.reprap-france.com/produit/1234568669-poulie-t5-10-dents-pour-courroie-de-15mm-axe-5mm
+
+	- tige(1m) : https://www.reprap-france.com/produit/1234568368-tige-lisse-rectifiee-o8x1000mm
+
+	- coupleur(x1) : https://www.reprap-france.com/produit/365-coupleur-souple-5-x-8-mm
+
+	- roulement :
+			608zz(x10): https://www.reprap-france.com/produit/322-roulement-a-billes-608zz
+			625zz(x8) : https://www.reprap-france.com/produit/1234568282-roulement-a-billes-625zz
+			624zz(x9) : https://www.reprap-france.com/produit/394-roulement-a-billes-624zz
+			623zz(x3) : https://www.reprap-france.com/produit/1234568464-roulement-a-billes-623zz
+
+	- courroie(3m) : https://www.reprap-france.com/produit/1234568667-courroie-t5-15mm-au-metre
